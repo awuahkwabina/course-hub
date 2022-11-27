@@ -1,2 +1,2 @@
 # course-hub
-iVERSE is an course sell web application with PHP, MYSQL. HTML CSS bootstrap, ajax call methods and more functionality needing of a complete course commerse website
+iVERSE is an course sell web application with PHP, MYSQL. HTML CSS, javascript bootstrap, ajax call methods, libraries and pludgings o a complete course commerse website
